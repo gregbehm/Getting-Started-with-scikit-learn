@@ -1,7 +1,7 @@
 ## Machine Learning in Python: Getting Started with scikit-learn  
 **Presented November 16, 2017 to the Fort Collins Data Science Meetup group**  
 www.meetup.com/Fort-Collins-Data-Science/events/244407536  
-<hr>  
+<br>  
 
 ### scikit-learn is a popular Python machine learning library, providing a wealth of easy-to-use tools to perform a variety of machine learning tasks. If you're new to machine learning, scikit-learn is a great way to start.  
 
