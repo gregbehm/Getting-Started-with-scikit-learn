@@ -8,4 +8,4 @@ www.meetup.com/Fort-Collins-Data-Science/events/244407536
 
 ### This notebook demonstrates a multi-class classification problem using scikit-learn and the Forest CoverType dataset, created by the Remote Sensing and GIS Program in the Department of Forest Sciences at Colorado State University, Fort Collins, Colorado.  
 
-### I encourage you to download the accompanying Jupyter Notebook and experiment with it to get a feel for the overall workflow.  Try different classification algorithms to compare results.  
+### I encourage you to download the accompanying Jupyter Notebook and experiment to get a feel for the overall workflow.  Try different classification algorithms to compare results.  
